@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day20\assignment23\assignment23\bin\Debug\assignment23.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day20\assignment23\assignment23\bin\Debug\assignment23.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day20\assignment23\assignment23\bin\Debug\assignment23.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day20\assignment23\assignment23\bin\Debug\Mysharedlib.dll
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day20\assignment23\assignment23\bin\Debug\Mysharedlib.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day20\assignment23\assignment23\obj\Debug\assignment23.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day20\assignment23\assignment23\obj\Debug\assignment23.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day20\assignment23\assignment23\obj\Debug\assignment23.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day20\assignment23\assignment23\obj\Debug\assignment23.csproj.CopyComplete
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day20\assignment23\assignment23\obj\Debug\assignment23.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day20\assignment23\assignment23\obj\Debug\assignment23.pdb
